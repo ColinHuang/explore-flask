@@ -3,7 +3,7 @@ Explore Flask
 
 Welcome to the *Explore Flask* repository. This is where the reStructuredText
 source of the book lives. If you're looking to read the book itself, `go here
-<http://exploreflask.com>`_.
+<http://exploreflask.com>`_ or `explore-flask.readthedocs.org <http://explore-flask.readthedocs.org/>`_ .
 
 Contributing
 ------------
